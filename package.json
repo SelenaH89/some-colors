@@ -1,0 +1,21 @@
+{
+  "name": "some-colors",
+  "version": "1.0.0",
+  "description": "This app creates random colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Selena",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-upleveled": "^5.0.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "random-colorful": "^1.0.4",
+    "random-hex": "^1.0.2"
+  }
+}
